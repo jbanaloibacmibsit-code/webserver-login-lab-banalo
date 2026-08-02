@@ -139,7 +139,7 @@ Place the required screenshots in the `screenshots/` folder:
 The project documentation PDF is located at:
 
 ```text
-docs/simple-login-system-documentation.pdf
+docs/Documentation.pdf
 ```
 
 ## GitHub Repository
@@ -147,7 +147,7 @@ docs/simple-login-system-documentation.pdf
 Repository naming format:
 
 ```text
-webserver-login-lab-[lastname]
+webserver-login-lab-banalo
 ```
 
 The repository should be public and should contain the complete source code, SQL script, README, screenshots, and documentation PDF.
