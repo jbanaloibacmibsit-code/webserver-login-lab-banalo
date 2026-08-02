@@ -3,7 +3,7 @@
 ## Student Information
 
 - Student Name: **Jessiebel Banalo**
-- Course : **BSIT**
+- Course : **BSIT 3 SECTION 1***
 
 ## Project Description
 
