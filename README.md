@@ -115,13 +115,13 @@ Passwords are stored as secure hashes using `password_hash()` and checked using 
 
 Place the required screenshots in the `screenshots/` folder:
 
-1. [Login Page](screenshots/01-login-page.png)
-2. [Invalid Login Attempt](screenshots/02-invalid-login.png)
-3. [Successful Login](screenshots/03-successful-login.png)
-4. [Dashboard and Logout](screenshots/04-dashboard-and-logout.png)
-5. [PostgreSQL Database](screenshots/05-postgresql-database.png)
-6. [Users Table and Sample Records](screenshots/06-users-table-records.png)
-7. [Apache/PHP Verification](screenshots/07-apache-php-verification.png)
+1. [Login Page](screenshots/login-page.png)
+2. [Invalid Login Attempt](screenshots/invalid-login.png)
+3. [Successful Login](screenshots/successful-login.png)
+4. [Dashboard and Logout](screenshots/dashboard%20and%20logout.png)
+5. [PostgreSQL Database](screenshots/postgresql-database.png)
+6. [Users Table and Sample Records](screenshots/users-table-records.png)
+7. [Apache/PHP Verification](screenshots/apache-php-verification.png)
 
 ## Technical Requirements Demonstrated
 
