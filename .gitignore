@@ -1,0 +1,12 @@
+/vendor/
+*.log
+.DS_Store
+.env
+.env.*
+*.tmp
+*.bak
+*.exe
+.vscode/
+.idea/
+*.docx
+~$*
